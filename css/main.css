@@ -1,0 +1,14 @@
+.measure-wide {  /* Change this from Ananke default to make the main article not narrow */
+    max-width: 100%;
+}
+
+@media screen and (min-width: 800px) {
+    .pv6-l {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .cover {
+        background-position: 0% 25%;
+    }
+}
