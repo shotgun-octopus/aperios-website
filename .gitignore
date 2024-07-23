@@ -1,0 +1,17 @@
+.DS_Store
+bin/
+bin-debug/
+bin-release/
+resources/
+
+*.lock
+
+*.markdown~
+*.md~
+
+public/
+build/
+dist/
+
+logs/
+*.log
