@@ -28,3 +28,7 @@ enableRobotsTXT = true
   name = "About"
   weight = 101
   url = "/about/"
+[[menu.main]]
+  name = "Contact"
+  weight = 101
+  url = "/about/#contact-us"
