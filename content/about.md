@@ -19,4 +19,4 @@ We empower businesses to focus on their product knowing their security team is p
 
 ## Contact Us
 
-Learn how Aperios can help your organization by sending an email to {{< mailto email="info@aperios.net" />}}.
+Learn how Aperios can help your organization by emailing {{< mailto email="info@aperios.net" />}}.
