@@ -7,7 +7,7 @@ Aperios Inc. was founded in 2024 by a team of experienced cyber operations exper
 Our goal is to deliver top-notch vulnerability assessments and tailored adversary simulation exercises.
 
 An Aperios exercise will expose security teams of all experience levels to real-world adversarial tactics.
-We empower organizations to focus on their businesses knowing that their security team is prepared for what lurks in cyberspace.
+We empower businesses to focus on their product knowing their security team is prepared for what lurks in cyberspace.
 
 ## Our Offerings
 
